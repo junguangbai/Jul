@@ -7,5 +7,6 @@ package com.atsh.java;
 public class Controller {
     public static void main(String[] args) {
         System.out.println("July is coming!!!");
+        System.out.println("July is coming!!!,so hot ShangHai it is...");
     }
 }
