@@ -9,6 +9,8 @@ public class Controller {
         System.out.println("July is coming!!!");
         System.out.println("July is coming!!!,so hot ShangHai it is...");
         System.out.println(add(3,5));
+        System.out.println(minus(3,5));
+        System.out.println(product(3,5));
     }
     //增加求和方法
     public static int add (int a,int b){
@@ -21,5 +23,9 @@ public class Controller {
     //增加求乘积方法
     public static int product (int a,int b){
         return a*b;
+    }
+    //增加除以方法
+    public static int divide (int a,int b){
+        return a/b;
     }
 }
