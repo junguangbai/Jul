@@ -18,4 +18,8 @@ public class Controller {
     public static int minus (int a,int b){
         return a-b;
     }
+    //增加求乘积方法
+    public static int product (int a,int b){
+        return a*b;
+    }
 }
