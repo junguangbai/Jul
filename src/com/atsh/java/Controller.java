@@ -28,4 +28,8 @@ public class Controller {
     public static int divide (int a,int b){
         return a/b;
     }
+    //增加求模方法
+    public static int modul (int a,int b){
+        return a%b;
+    }
 }
