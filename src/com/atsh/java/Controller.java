@@ -14,4 +14,8 @@ public class Controller {
     public static int add (int a,int b){
         return a+b;
     }
+    //增加求差方法
+    public static int minus (int a,int b){
+        return a-b;
+    }
 }
